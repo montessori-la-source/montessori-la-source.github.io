@@ -33,7 +33,7 @@ class SiteFooter extends HTMLElement {
     SIRET 106 415 615 00017<br>
   </p>
   <div class="social-bar">
-    <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+    <a href="https://www.facebook.com/profile.php?id=61590871636915" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
       <svg data-bbox="0.174 0 129.653 129.999" viewBox="0 0 130 130" height="130" width="130" xmlns="http://www.w3.org/2000/svg" data-type="color">
         <g>
           <path fill="#ffffff" d="M90.459 84.863 94.107 65H72.876v-7.025c0-10.497 4.118-14.534 14.776-14.534 3.31 0 5.975.081 7.509.242V25.677c-2.907-.807-10.012-1.615-14.13-1.615-21.72 0-31.732 10.255-31.732 32.378v8.559H35.895v19.863h13.404v43.206a64.8 64.8 0 0 0 15.703 1.931c2.668 0 5.292-.181 7.875-.494V84.862h17.584Z" data-color="1"></path>
